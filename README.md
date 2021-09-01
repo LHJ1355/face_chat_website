@@ -1,4 +1,4 @@
-# Chatting-Server
+# FaceChattingService
 
 서버 : Spring, 클라이언트 : React
 
